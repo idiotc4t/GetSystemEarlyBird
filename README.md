@@ -6,3 +6,6 @@
 3.使用系统权限进程进程EarlyBird+fakeppid执行shellcode
 
 4.获取系统权限shell
+
+![](shell.jpg)
+![](process.jpg)
